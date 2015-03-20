@@ -1,0 +1,29 @@
+body {
+	font-family:sans-serif;
+	text-align:center;
+	background-color:#dddddd;
+	background-image: url("http://au.engineeringsociety.net/images/stories/lab/chem.jpg");
+	bg-size:auto auto;
+	position:relative;
+	top:100px;
+}
+
+#bodyContainer {
+	background-color:#eeeeee;
+	width:50%;
+	height:300px;
+	margin: 0 auto;
+	padding:30px;
+}
+
+
+h1 {
+	color:blue;
+}
+
+
+#pulledElement {
+	margin-top:30px;
+	font-size:24pt;
+	font-weight:bolder;
+}
